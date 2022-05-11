@@ -3,8 +3,8 @@
 The repository of our dataset **Biopsy Needle Dataset WSIs**: [Paper](https://example.com/)
 
 - Structure & Types
-		
-		![Structure1](/Images/Structure.JPG)
+
+	![Structure1](/Images/Structure.JPG)
 		
 The directory tree look like as follows:
 
