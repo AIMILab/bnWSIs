@@ -9,9 +9,11 @@ The repository of our dataset **Biopsy Needle Dataset WSIs (bnWSIs)**: [Paper](h
 The directory tree look like as follows:
 
 - README.md
-- WSIs
-- Patches
-  
+- WSIs 
+- Patches  
+
+***!! NOTE: !!*** Data available on request from the authors.
+
 # Results:
 
 **Types of Classes**
