@@ -19,7 +19,7 @@ The directory tree look like as follows:
 **A. Normal**
 
 <table class="center">
-  <tr>
+  <tr class="center">
     <td>* x5 *</td>
     <td>* x10 *</td>
     <td>* x40 *</td>
