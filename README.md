@@ -25,9 +25,9 @@ The directory tree look like as follows:
     <td>* x40 *</td>
   </tr>
   <tr>
-    <td><img src="/images/A-x5.png" width="100" height="100"" /></td>
-    <td><img src="/images/A-x10.png" width="100" height="100"" /></td>
-    <td><img src="/images/A-x40.png" width="100" height="100"" /></td>
+    <td><img src="/Images/A-x5.png" width="100" height="100"" /></td>
+    <td><img src="/Images/A-x10.png" width="100" height="100"" /></td>
+    <td><img src="/Images/A-x40.png" width="100" height="100"" /></td>
   </tr>
  </table>
  
@@ -40,9 +40,9 @@ The directory tree look like as follows:
     <td>* x40 *</td>
   </tr>
   <tr>
-    <td><img src="/images/B-x5.png" width="100" height="100"" /></td>
-    <td><img src="/images/B-x10.png" width="100" height="100"" /></td>
-    <td><img src="/images/B-x40.png" width="100" height="100"" /></td>
+    <td><img src="/Images/B-x5.png" width="100" height="100"" /></td>
+    <td><img src="/Images/B-x10.png" width="100" height="100"" /></td>
+    <td><img src="/Images/B-x40.png" width="100" height="100"" /></td>
   </tr>
  </table>
 
@@ -55,9 +55,9 @@ The directory tree look like as follows:
     <td>* x40 *</td>
   </tr>
   <tr>
-    <td><img src="/images/C-x5.png" width="100" height="100"" /></td>
-    <td><img src="/images/C-x10.png" width="100" height="100"" /></td>
-    <td><img src="/images/C-x40.png" width="100" height="100"" /></td>
+    <td><img src="/Images/C-x5.png" width="100" height="100"" /></td>
+    <td><img src="/Images/C-x10.png" width="100" height="100"" /></td>
+    <td><img src="/Images/C-x40.png" width="100" height="100"" /></td>
   </tr>
  </table>
 
