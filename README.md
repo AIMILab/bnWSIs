@@ -4,7 +4,7 @@ The repository of our dataset **Biopsy Needle Dataset WSIs**: [Paper](https://ex
 
 - Structure & Types
 		
-		![Structure1](/images/Structure.JPG)
+		![Structure1](/Images/Structure.JPG)
 		
 The directory tree look like as follows:
 
@@ -19,25 +19,25 @@ The directory tree look like as follows:
 **A. Normal**
 
 <p float="left">
--*x5*  <img src="/images/A-x5.png" width="100" height="100"" />
--*x10* <img src="/images/A-x10.png" width="100" height="100"" /> 
--*x40* <img src="/images/A-x40.png" width="100" height="100"" />
+-*x5*  <img src="/Images/A-x5.png" width="100" height="100"" />
+-*x10* <img src="/Images/A-x10.png" width="100" height="100"" /> 
+-*x40* <img src="/Images/A-x40.png" width="100" height="100"" />
 </p>
 
 **B. Atypical Ductal Hyperplasia**
 
 <p float="left">
--*x5*  <img src="/images/B-x5.png" width="100" height="100"" />
--*x10* <img src="/images/B-x10.png" width="100" height="100"" /> 
--*x40* <img src="/images/B-x40.png" width="100" height="100"" />
+-*x5*  <img src="/Images/B-x5.png" width="100" height="100"" />
+-*x10* <img src="/Images/B-x10.png" width="100" height="100"" /> 
+-*x40* <img src="/Images/B-x40.png" width="100" height="100"" />
 </p>
 
 **C. Ductal Carcinoma In-Situ**
 
 <p float="left">
--*x5*  <img src="/images/C-x5.png" width="100" height="100"" />
--*x10* <img src="/images/C-x10.png" width="100" height="100"" /> 
--*x40* <img src="/images/C-x40.png" width="100" height="100"" />
+-*x5*  <img src="/Images/C-x5.png" width="100" height="100"" />
+-*x10* <img src="/Images/C-x10.png" width="100" height="100"" /> 
+-*x40* <img src="/Images/C-x40.png" width="100" height="100"" />
 </p>
 
 # Citation:
