@@ -18,7 +18,7 @@ The directory tree look like as follows:
 
 **A. Normal**
 
-<table>
+<table class="center">
   <tr>
     <td>* x5 *</td>
     <td>* x10 *</td>
@@ -33,7 +33,7 @@ The directory tree look like as follows:
  
 **B. Atypical Ductal Hyperplasia**
 
-<table>
+<table class="center">
   <tr>
     <td>* x5 *</td>
     <td>* x10 *</td>
@@ -48,7 +48,7 @@ The directory tree look like as follows:
 
 **C. Ductal Carcinoma In-Situ**
 
-<table>
+<table class="center">
   <tr>
     <td>* x5 *</td>
     <td>* x10 *</td>
