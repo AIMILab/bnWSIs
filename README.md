@@ -19,25 +19,25 @@ The directory tree look like as follows:
 **A. Normal**
 
 <p float="left">
--*x5*  <img src="/A-x5.png" width="100" height="100"" />
--*x10* <img src="/A-x10.png" width="100" height="100"" /> 
--*x40* <img src="/A-x40.png" width="100" height="100"" />
+-*x5*  <img src="/images/A-x5.png" width="100" height="100"" />
+-*x10* <img src="/images/A-x10.png" width="100" height="100"" /> 
+-*x40* <img src="/images/A-x40.png" width="100" height="100"" />
 </p>
 
 **B. Atypical Ductal Hyperplasia**
 
 <p float="left">
--*x5*  <img src="/B-x5.png" width="100" height="100"" />
--*x10* <img src="/B-x10.png" width="100" height="100"" /> 
--*x40* <img src="/B-x40.png" width="100" height="100"" />
+-*x5*  <img src="/images/B-x5.png" width="100" height="100"" />
+-*x10* <img src="/images/B-x10.png" width="100" height="100"" /> 
+-*x40* <img src="/images/B-x40.png" width="100" height="100"" />
 </p>
 
 **C. Ductal Carcinoma In-Situ**
 
 <p float="left">
--*x5*  <img src="/C-x5.png" width="100" height="100"" />
--*x10* <img src="/C-x10.png" width="100" height="100"" /> 
--*x40* <img src="/C-x40.png" width="100" height="100"" />
+-*x5*  <img src="/images/C-x5.png" width="100" height="100"" />
+-*x10* <img src="/images/C-x10.png" width="100" height="100"" /> 
+-*x40* <img src="/images/C-x40.png" width="100" height="100"" />
 </p>
 
 # Citation:
