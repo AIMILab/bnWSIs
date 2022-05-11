@@ -1,6 +1,6 @@
 # Dataset Information
 
-The repository of our dataset **Biopsy Needle Dataset WSIs**: [Paper](https://example.com/)
+The repository of our dataset **Biopsy Needle Dataset WSIs (bnWSIs)**: [Paper](https://example.com/)
 
 - Structure & Types
 
@@ -14,31 +14,52 @@ The directory tree look like as follows:
   
 # Results:
 
-** Types of Classes**
+**Types of Classes**
 
 **A. Normal**
 
-<p float="left">
--*x5*  <img src="/Images/A-x5.png" width="100" height="100"" />
--*x10* <img src="/Images/A-x10.png" width="100" height="100"" /> 
--*x40* <img src="/Images/A-x40.png" width="100" height="100"" />
-</p>
-
+<table>
+  <tr>
+    <td>* x5 *</td>
+    <td>* x10 *</td>
+    <td>* x40 *</td>
+  </tr>
+  <tr>
+    <td><img src="/images/A-x5.png" width="100" height="100"" /></td>
+    <td><img src="/images/A-x10.png" width="100" height="100"" /></td>
+    <td><img src="/images/A-x40.png" width="100" height="100"" /></td>
+  </tr>
+ </table>
+ 
 **B. Atypical Ductal Hyperplasia**
 
-<p float="left">
--*x5*  <img src="/Images/B-x5.png" width="100" height="100"" />
--*x10* <img src="/Images/B-x10.png" width="100" height="100"" /> 
--*x40* <img src="/Images/B-x40.png" width="100" height="100"" />
-</p>
+<table>
+  <tr>
+    <td>* x5 *</td>
+    <td>* x10 *</td>
+    <td>* x40 *</td>
+  </tr>
+  <tr>
+    <td><img src="/images/B-x5.png" width="100" height="100"" /></td>
+    <td><img src="/images/B-x10.png" width="100" height="100"" /></td>
+    <td><img src="/images/B-x40.png" width="100" height="100"" /></td>
+  </tr>
+ </table>
 
 **C. Ductal Carcinoma In-Situ**
 
-<p float="left">
--*x5*  <img src="/Images/C-x5.png" width="100" height="100"" />
--*x10* <img src="/Images/C-x10.png" width="100" height="100"" /> 
--*x40* <img src="/Images/C-x40.png" width="100" height="100"" />
-</p>
+<table>
+  <tr>
+    <td>* x5 *</td>
+    <td>* x10 *</td>
+    <td>* x40 *</td>
+  </tr>
+  <tr>
+    <td><img src="/images/C-x5.png" width="100" height="100"" /></td>
+    <td><img src="/images/C-x10.png" width="100" height="100"" /></td>
+    <td><img src="/images/C-x40.png" width="100" height="100"" /></td>
+  </tr>
+ </table>
 
 # Citation:
 
