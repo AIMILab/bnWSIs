@@ -70,6 +70,6 @@ If you find this code useful in your research, please consider citing:
 @article{Sheikh2022,
   title={Refined Attention Module for WSI Cancer Diagnosis},
   author={Taimoor Shakeel Sheikh, Jee Yeon Kim, Migyung Cho},
-  journal={arXiv preprint arXiv:IEEE ECBIOS},
+  journal={arXiv preprint arXiv:IEEE XYZ},
   year={2022}
 }
