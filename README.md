@@ -1,6 +1,6 @@
 # Dataset Information
 
-The repository of our dataset **Biopsy Needle Dataset WSIs (bnWSIs)**: [Paper](https://example.com/)
+The repository of our dataset **Biopsy Needle Dataset WSIs (bnWSIs)**: [Paper](**[https://example.com/](https://ieeexplore.ieee.org/abstract/document/9983555)**)
 
 - Structure & Types
 
