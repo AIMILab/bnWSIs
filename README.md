@@ -1,6 +1,6 @@
 # Dataset Information
 
-The repository of our dataset **Biopsy Needle Dataset WSIs (bnWSIs)** (_IEEE ICKII_): [Paper]([https://www.mdpi.com/2075-4418/12/6/1480](https://ieeexplore.ieee.org/abstract/document/9983555))
+The repository of our dataset **Biopsy Needle Dataset WSIs (bnWSIs)** (_IEEE ICKII_): [Paper][https://ieeexplore.ieee.org/abstract/document/9983555]
 
 - Structure & Types
 
