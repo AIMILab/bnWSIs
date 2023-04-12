@@ -1,6 +1,7 @@
 # Dataset Information
 
-The repository of our dataset **Biopsy Needle Dataset WSIs (bnWSIs)** (_IEEE ICKII_): [Paper][https://ieeexplore.ieee.org/abstract/document/9983555]
+The repository of our dataset **Biopsy Needle Dataset WSIs (bnWSIs)** with following paper **Refined Attention Module for WSI Cancer Diagnosis** (_IEEE ICKII_): [Paper](https://ieeexplore.ieee.org/abstract/document/9983555)
+
 
 - Structure & Types
 
